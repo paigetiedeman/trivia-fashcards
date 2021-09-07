@@ -1,8 +1,8 @@
-# Project Name
+# Trivia Flash Cards
 
-#### This is a site..
+#### This application uses Open Trivia Database API to create and show different trivia cards.
 
-#### _By Paige Tiedeman_
+#### _By Paige Tiedeman & Connor Hansen_
 
 ## Technologies Used
 
@@ -17,6 +17,7 @@
 * Webpack
 * Popper
 * Package.json
+* [Open Trivia Database](https://opentdb.com/api_config.php)
 
 
 ## Description
@@ -40,7 +41,7 @@ This simple HTML site uses Javascript...
 
 _[MIT](https://opensource.org/licenses/MIT)_  
 
-Copyright (c) 2021 Paige Tiedeman
+Copyright (c) 2021 Paige Tiedeman & Connor Hansen
 
 ## Contact Information
 
